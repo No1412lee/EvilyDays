@@ -1,0 +1,938 @@
+fileFormatVersion: 2
+guid: 200e3d7dfee2a8e409827656a09d79f5
+timeCreated: 1489522064
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 531
+    100002: 5310
+    100004: 5311
+    100006: 5312
+    100008: 5313
+    100010: 5314
+    100012: 5315
+    100014: 5316
+    100016: 5317
+    100018: 5318
+    100020: 5319
+    100022: 532
+    100024: 5320
+    100026: 5321
+    100028: 5322
+    100030: 533
+    100032: 534
+    100034: 535
+    100036: 536
+    100038: 537
+    100040: 538
+    100042: 539
+    100044: Bone01
+    100046: Bone02
+    100048: Bone03
+    100050: Bone05
+    100052: Bone06
+    100054: Bone08
+    100056: Bone09
+    100058: Bone10
+    100060: Bone12
+    100062: Bone13
+    100064: Bone14
+    100066: Bone15
+    100068: Bone16
+    100070: Bone17
+    100072: Bone18
+    100074: Bone19
+    100076: Bone20
+    100078: Bone21
+    100080: Bone22
+    100082: Bone23
+    100084: Bone24
+    100086: Bone25
+    100088: Bone26
+    100090: Bone27
+    100092: Bone28
+    100094: Bone33
+    100096: Bone34
+    100098: Bone41
+    100100: Bone42
+    100102: Bone43
+    100104: Bone45
+    100106: Bone46
+    100108: Bone47
+    100110: Bone48
+    100112: Bone49
+    100114: Bone51
+    100116: Bone52
+    100118: Bone53
+    100120: Bone54
+    100122: Bone55
+    100124: Bone56
+    100126: Bone58
+    100128: Bone59
+    100130: Bone60
+    100132: Bone62
+    100134: Bone63
+    100136: Bone64
+    100138: bone_new0
+    100140: bone_new1
+    100142: bone_new1 1
+    100144: bone_new10
+    100146: bone_new10 1
+    100148: bone_new11
+    100150: bone_new11 1
+    100152: bone_new12
+    100154: bone_new12 1
+    100156: bone_new13
+    100158: bone_new13 1
+    100160: bone_new14
+    100162: bone_new14 1
+    100164: bone_new15
+    100166: bone_new15 1
+    100168: bone_new16
+    100170: bone_new16 1
+    100172: bone_new17
+    100174: bone_new18
+    100176: bone_new19
+    100178: bone_new2
+    100180: bone_new2 1
+    100182: bone_new20
+    100184: bone_new21
+    100186: bone_new22
+    100188: bone_new3
+    100190: bone_new3 1
+    100192: bone_new4
+    100194: bone_new5
+    100196: bone_new5 1
+    100198: bone_new6
+    100200: bone_new6 1
+    100202: bone_new7
+    100204: bone_new7 1
+    100206: bone_new8
+    100208: bone_new8 1
+    100210: bone_new9
+    100212: bone_new9 1
+    100214: bone_null
+    100216: Bonea65
+    100218: BoneA66
+    100220: BoneA67
+    100222: BoneA68
+    100224: //RootNode
+    100226: Plane01
+    100228: Point03
+    100230: Point04
+    100232: Point05
+    100234: Point06
+    100236: Point08
+    100238: Point09
+    100240: Point10
+    100242: Point13
+    400000: 531
+    400002: 5310
+    400004: 5311
+    400006: 5312
+    400008: 5313
+    400010: 5314
+    400012: 5315
+    400014: 5316
+    400016: 5317
+    400018: 5318
+    400020: 5319
+    400022: 532
+    400024: 5320
+    400026: 5321
+    400028: 5322
+    400030: 533
+    400032: 534
+    400034: 535
+    400036: 536
+    400038: 537
+    400040: 538
+    400042: 539
+    400044: Bone01
+    400046: Bone02
+    400048: Bone03
+    400050: Bone05
+    400052: Bone06
+    400054: Bone08
+    400056: Bone09
+    400058: Bone10
+    400060: Bone12
+    400062: Bone13
+    400064: Bone14
+    400066: Bone15
+    400068: Bone16
+    400070: Bone17
+    400072: Bone18
+    400074: Bone19
+    400076: Bone20
+    400078: Bone21
+    400080: Bone22
+    400082: Bone23
+    400084: Bone24
+    400086: Bone25
+    400088: Bone26
+    400090: Bone27
+    400092: Bone28
+    400094: Bone33
+    400096: Bone34
+    400098: Bone41
+    400100: Bone42
+    400102: Bone43
+    400104: Bone45
+    400106: Bone46
+    400108: Bone47
+    400110: Bone48
+    400112: Bone49
+    400114: Bone51
+    400116: Bone52
+    400118: Bone53
+    400120: Bone54
+    400122: Bone55
+    400124: Bone56
+    400126: Bone58
+    400128: Bone59
+    400130: Bone60
+    400132: Bone62
+    400134: Bone63
+    400136: Bone64
+    400138: bone_new0
+    400140: bone_new1
+    400142: bone_new1 1
+    400144: bone_new10
+    400146: bone_new10 1
+    400148: bone_new11
+    400150: bone_new11 1
+    400152: bone_new12
+    400154: bone_new12 1
+    400156: bone_new13
+    400158: bone_new13 1
+    400160: bone_new14
+    400162: bone_new14 1
+    400164: bone_new15
+    400166: bone_new15 1
+    400168: bone_new16
+    400170: bone_new16 1
+    400172: bone_new17
+    400174: bone_new18
+    400176: bone_new19
+    400178: bone_new2
+    400180: bone_new2 1
+    400182: bone_new20
+    400184: bone_new21
+    400186: bone_new22
+    400188: bone_new3
+    400190: bone_new3 1
+    400192: bone_new4
+    400194: bone_new5
+    400196: bone_new5 1
+    400198: bone_new6
+    400200: bone_new6 1
+    400202: bone_new7
+    400204: bone_new7 1
+    400206: bone_new8
+    400208: bone_new8 1
+    400210: bone_new9
+    400212: bone_new9 1
+    400214: bone_null
+    400216: Bonea65
+    400218: BoneA66
+    400220: BoneA67
+    400222: BoneA68
+    400224: //RootNode
+    400226: Plane01
+    400228: Point03
+    400230: Point04
+    400232: Point05
+    400234: Point06
+    400236: Point08
+    400238: Point09
+    400240: Point10
+    400242: Point13
+    2300000: Bone01
+    2300002: Bone02
+    2300004: Bone03
+    2300006: Bone05
+    2300008: Bone06
+    2300010: Bone08
+    2300012: Bone09
+    2300014: Bone10
+    2300016: Bone12
+    2300018: Bone13
+    2300020: Bone14
+    2300022: Bone15
+    2300024: Bone16
+    2300026: Bone17
+    2300028: Bone18
+    2300030: Bone19
+    2300032: Bone20
+    2300034: Bone21
+    2300036: Bone22
+    2300038: Bone23
+    2300040: Bone24
+    2300042: Bone25
+    2300044: Bone26
+    2300046: Bone27
+    2300048: Bone28
+    2300050: Bone33
+    2300052: Bone34
+    2300054: Bone41
+    2300056: Bone42
+    2300058: Bone43
+    2300060: Bone45
+    2300062: Bone46
+    2300064: Bone47
+    2300066: Bone48
+    2300068: Bone49
+    2300070: Bone51
+    2300072: Bone52
+    2300074: Bone53
+    2300076: Bone54
+    2300078: Bone55
+    2300080: Bone56
+    2300082: Bone58
+    2300084: Bone59
+    2300086: Bone60
+    2300088: Bone62
+    2300090: Bone63
+    2300092: Bone64
+    2300094: bone_new0
+    2300096: bone_new1
+    2300098: bone_new1 1
+    2300100: bone_new10
+    2300102: bone_new10 1
+    2300104: bone_new11
+    2300106: bone_new11 1
+    2300108: bone_new12
+    2300110: bone_new12 1
+    2300112: bone_new13
+    2300114: bone_new13 1
+    2300116: bone_new14
+    2300118: bone_new14 1
+    2300120: bone_new15
+    2300122: bone_new15 1
+    2300124: bone_new16
+    2300126: bone_new16 1
+    2300128: bone_new17
+    2300130: bone_new18
+    2300132: bone_new19
+    2300134: bone_new2
+    2300136: bone_new2 1
+    2300138: bone_new20
+    2300140: bone_new21
+    2300142: bone_new22
+    2300144: bone_new3
+    2300146: bone_new3 1
+    2300148: bone_new4
+    2300150: bone_new5
+    2300152: bone_new5 1
+    2300154: bone_new6
+    2300156: bone_new6 1
+    2300158: bone_new7
+    2300160: bone_new7 1
+    2300162: bone_new8
+    2300164: bone_new8 1
+    2300166: bone_new9
+    2300168: bone_new9 1
+    2300170: bone_null
+    2300172: Bonea65
+    2300174: BoneA66
+    2300176: BoneA67
+    2300178: BoneA68
+    2300180: Plane01
+    2300182: Point03
+    2300184: Point04
+    2300186: Point05
+    2300188: Point06
+    2300190: Point08
+    2300192: Point09
+    2300194: Point10
+    2300196: Point13
+    3300000: Bone01
+    3300002: Bone02
+    3300004: Bone03
+    3300006: Bone05
+    3300008: Bone06
+    3300010: Bone08
+    3300012: Bone09
+    3300014: Bone10
+    3300016: Bone12
+    3300018: Bone13
+    3300020: Bone14
+    3300022: Bone15
+    3300024: Bone16
+    3300026: Bone17
+    3300028: Bone18
+    3300030: Bone19
+    3300032: Bone20
+    3300034: Bone21
+    3300036: Bone22
+    3300038: Bone23
+    3300040: Bone24
+    3300042: Bone25
+    3300044: Bone26
+    3300046: Bone27
+    3300048: Bone28
+    3300050: Bone33
+    3300052: Bone34
+    3300054: Bone41
+    3300056: Bone42
+    3300058: Bone43
+    3300060: Bone45
+    3300062: Bone46
+    3300064: Bone47
+    3300066: Bone48
+    3300068: Bone49
+    3300070: Bone51
+    3300072: Bone52
+    3300074: Bone53
+    3300076: Bone54
+    3300078: Bone55
+    3300080: Bone56
+    3300082: Bone58
+    3300084: Bone59
+    3300086: Bone60
+    3300088: Bone62
+    3300090: Bone63
+    3300092: Bone64
+    3300094: bone_new0
+    3300096: bone_new1
+    3300098: bone_new1 1
+    3300100: bone_new10
+    3300102: bone_new10 1
+    3300104: bone_new11
+    3300106: bone_new11 1
+    3300108: bone_new12
+    3300110: bone_new12 1
+    3300112: bone_new13
+    3300114: bone_new13 1
+    3300116: bone_new14
+    3300118: bone_new14 1
+    3300120: bone_new15
+    3300122: bone_new15 1
+    3300124: bone_new16
+    3300126: bone_new16 1
+    3300128: bone_new17
+    3300130: bone_new18
+    3300132: bone_new19
+    3300134: bone_new2
+    3300136: bone_new2 1
+    3300138: bone_new20
+    3300140: bone_new21
+    3300142: bone_new22
+    3300144: bone_new3
+    3300146: bone_new3 1
+    3300148: bone_new4
+    3300150: bone_new5
+    3300152: bone_new5 1
+    3300154: bone_new6
+    3300156: bone_new6 1
+    3300158: bone_new7
+    3300160: bone_new7 1
+    3300162: bone_new8
+    3300164: bone_new8 1
+    3300166: bone_new9
+    3300168: bone_new9 1
+    3300170: bone_null
+    3300172: Bonea65
+    3300174: BoneA66
+    3300176: BoneA67
+    3300178: BoneA68
+    3300180: Plane01
+    3300182: Point03
+    3300184: Point04
+    3300186: Point05
+    3300188: Point06
+    3300190: Point08
+    3300192: Point09
+    3300194: Point10
+    3300196: Point13
+    4300000: 531
+    4300002: 532
+    4300004: 533
+    4300006: 534
+    4300008: 535
+    4300010: 536
+    4300012: 537
+    4300014: 538
+    4300016: 539
+    4300018: 5310
+    4300020: 5311
+    4300022: 5312
+    4300024: 5313
+    4300026: 5314
+    4300028: 5315
+    4300030: 5316
+    4300032: 5317
+    4300034: 5318
+    4300036: 5319
+    4300038: 5320
+    4300040: 5321
+    4300042: 5322
+    4300044: Plane01
+    4300046: Bone01
+    4300048: Bonea65
+    4300050: BoneA66
+    4300052: BoneA67
+    4300054: BoneA68
+    4300056: Bone05
+    4300058: Bone06
+    4300060: Bone63
+    4300062: Bone64
+    4300064: Bone02
+    4300066: bone_new2
+    4300068: Bone03
+    4300070: bone_null
+    4300072: Bone59
+    4300074: Bone60
+    4300076: Bone33
+    4300078: Bone34
+    4300080: Bone19
+    4300082: Bone20
+    4300084: Bone26
+    4300086: Bone28
+    4300088: bone_new10
+    4300090: bone_new11
+    4300092: bone_new13
+    4300094: bone_new16
+    4300096: bone_new12
+    4300098: bone_new14
+    4300100: bone_new15
+    4300102: Bone62
+    4300104: Bone15
+    4300106: Bone58
+    4300108: Bone42
+    4300110: Bone43
+    4300112: Bone45
+    4300114: Bone46
+    4300116: Bone47
+    4300118: Bone48
+    4300120: Bone49
+    4300122: Bone41
+    4300124: Bone51
+    4300126: Bone52
+    4300128: Bone53
+    4300130: Bone54
+    4300132: Bone55
+    4300134: Bone56
+    4300136: bone_new5
+    4300138: bone_new6
+    4300140: bone_new0
+    4300142: Bone08
+    4300144: Bone09
+    4300146: Bone10
+    4300148: Bone12
+    4300150: Bone13
+    4300152: Bone14
+    4300154: Bone17
+    4300156: Bone18
+    4300158: Bone16
+    4300160: Bone22
+    4300162: Bone23
+    4300164: Bone21
+    4300166: Bone24
+    4300168: Bone25
+    4300170: Bone27
+    4300172: bone_new7
+    4300174: bone_new8
+    4300176: bone_new9
+    4300178: bone_new1
+    4300180: bone_new3
+    4300182: bone_new1
+    4300184: bone_new3
+    4300186: bone_new5
+    4300188: bone_new7
+    4300190: bone_new2
+    4300192: bone_new4
+    4300194: bone_new6
+    4300196: bone_new8
+    4300198: Point04
+    4300200: Point03
+    4300202: Point08
+    4300204: Point13
+    4300206: Point05
+    4300208: Point06
+    4300210: Point09
+    4300212: Point10
+    4300214: bone_new12
+    4300216: bone_new13
+    4300218: bone_new14
+    4300220: bone_new15
+    4300222: bone_new16
+    4300224: bone_new17
+    4300226: bone_new18
+    4300228: bone_new19
+    4300230: bone_new20
+    4300232: bone_new21
+    4300234: bone_new22
+    4300236: bone_new11
+    4300238: bone_new9
+    4300240: bone_new10
+    7400000: Idle1
+    9500000: //RootNode
+    13700000: 531
+    13700002: 5310
+    13700004: 5311
+    13700006: 5312
+    13700008: 5313
+    13700010: 5314
+    13700012: 5315
+    13700014: 5316
+    13700016: 5317
+    13700018: 5318
+    13700020: 5319
+    13700022: 532
+    13700024: 5320
+    13700026: 5321
+    13700028: 5322
+    13700030: 533
+    13700032: 534
+    13700034: 535
+    13700036: 536
+    13700038: 537
+    13700040: 538
+    13700042: 539
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle1
+      takeName: Take 001
+      firstFrame: 29
+      lastFrame: 105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 532
+        weight: 1
+      - path: 533
+        weight: 1
+      - path: 534
+        weight: 1
+      - path: 535
+        weight: 1
+      - path: 536
+        weight: 1
+      - path: 537
+        weight: 1
+      - path: 538
+        weight: 1
+      - path: 539
+        weight: 1
+      - path: 5310
+        weight: 1
+      - path: 5311
+        weight: 1
+      - path: 5312
+        weight: 1
+      - path: 5313
+        weight: 1
+      - path: 5314
+        weight: 1
+      - path: 5315
+        weight: 1
+      - path: 5316
+        weight: 1
+      - path: 5317
+        weight: 1
+      - path: 5318
+        weight: 1
+      - path: 5319
+        weight: 1
+      - path: 5320
+        weight: 1
+      - path: 5321
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: Bone01/Bone02
+        weight: 1
+      - path: Bone01/Bone02/bone_new2
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08/Bone09
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08/Bone09/Bone10
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08/Bone09/Bone10/Bone12
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08/Bone09/Bone10/Bone12/Bone13
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08/Bone09/Bone10/Bone12/Bone13/Bone14
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08/Bone09/Bone10/Bone17
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08/Bone09/Bone10/Bone17/Bone18
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08/Bone09/Bone10/Bone17/Bone18/Bone16
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08/Bone09/Bone10/Bone22
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08/Bone09/Bone10/Bone22/Bone23
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08/Bone09/Bone10/Bone22/Bone23/Bone21
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08/Bone09/Bone10/Bone24
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08/Bone09/Bone10/Bone24/Bone25
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08/Bone09/Bone10/Bone24/Bone25/Bone27
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08/Bone09/Bone10/bone_new7
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08/Bone09/Bone10/bone_new7/bone_new8
+          1
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08/Bone09/Bone10/bone_new9 1
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone08/Bone09/bone_new1 1
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone58
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone58/Bone42
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone58/Bone42/Bone43
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone58/Bone42/Bone43/Bone45
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone58/Bone42/Bone43/Bone45/Bone46
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone58/Bone42/Bone43/Bone45/Bone46/Bone47
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone58/Bone42/Bone43/Bone48
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone58/Bone42/Bone43/Bone48/Bone49
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone58/Bone42/Bone43/Bone48/Bone49/Bone41
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone58/Bone42/Bone43/Bone51
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone58/Bone42/Bone43/Bone51/Bone52
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone58/Bone42/Bone43/Bone51/Bone52/Bone53
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone58/Bone42/Bone43/Bone54
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone58/Bone42/Bone43/Bone54/Bone55
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone58/Bone42/Bone43/Bone54/Bone55/Bone56
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone58/Bone42/Bone43/bone_new5 1
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone58/Bone42/Bone43/bone_new5 1/bone_new6
+          1
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/Bone58/Bone42/bone_new0
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_new1
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_new1/bone_new3 1
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_new1/bone_new3 1/bone_new5
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_new1/bone_new3 1/bone_new5/bone_new7
+          1
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_new2 1
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_new2 1/bone_new4
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_new2 1/bone_new4/bone_new6
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_new2 1/bone_new4/bone_new6/bone_new8
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_new3
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_null
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_null/Bone15
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_null/Bone19
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_null/Bone19/Bone20
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_null/Bone19/Bone20/Bone26
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_null/Bone19/Bone20/Bone26/Bone28
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_null/Bone19/Bone20/Bone26/Bone28/bone_new10
+          1
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_null/Bone19/Bone20/bone_new11 1
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_null/Bone19/Bone20/bone_new11 1/bone_new13
+          1
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_null/Bone19/Bone20/bone_new11 1/bone_new13
+          1/bone_new16 1
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_null/Bone19/Bone20/bone_new12 1
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_null/Bone19/Bone20/bone_new12 1/bone_new14
+          1
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_null/Bone19/Bone20/bone_new12 1/bone_new14
+          1/bone_new15 1
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_null/Bone33
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_null/Bone33/Bone34
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_null/Bone59
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_null/Bone59/Bone60
+        weight: 1
+      - path: Bone01/Bone02/bone_new2/Bone03/bone_null/Bone62
+        weight: 1
+      - path: Bone01/Bone05
+        weight: 1
+      - path: Bone01/Bone05/Bone06
+        weight: 1
+      - path: Bone01/Bone05/Bone06/Bone63
+        weight: 1
+      - path: Bone01/Bone05/Bone06/Bone63/Bone64
+        weight: 1
+      - path: Bone01/Bonea65
+        weight: 1
+      - path: Bone01/Bonea65/BoneA66
+        weight: 1
+      - path: Bone01/Bonea65/BoneA66/BoneA67
+        weight: 1
+      - path: Bone01/Bonea65/BoneA66/BoneA67/BoneA68
+        weight: 1
+      - path: Bone01/Point04
+        weight: 1
+      - path: Bone01/Point04/Point03
+        weight: 1
+      - path: Bone01/Point05
+        weight: 1
+      - path: Bone01/Point05/Point06
+        weight: 1
+      - path: Bone01/Point08
+        weight: 1
+      - path: Bone01/Point08/Point13
+        weight: 1
+      - path: Bone01/Point09
+        weight: 1
+      - path: Bone01/Point09/Point10
+        weight: 1
+      - path: bone_new11
+        weight: 1
+      - path: bone_new11/bone_new9
+        weight: 1
+      - path: bone_new11/bone_new10
+        weight: 1
+      - path: bone_new12
+        weight: 1
+      - path: bone_new13
+        weight: 1
+      - path: bone_new13/bone_new14
+        weight: 1
+      - path: bone_new13/bone_new15
+        weight: 1
+      - path: bone_new13/bone_new16
+        weight: 1
+      - path: bone_new13/bone_new17
+        weight: 1
+      - path: bone_new13/bone_new18
+        weight: 1
+      - path: bone_new13/bone_new19
+        weight: 1
+      - path: bone_new13/bone_new20
+        weight: 1
+      - path: bone_new13/bone_new21
+        weight: 1
+      - path: bone_new22
+        weight: 1
+      - path: Plane01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
